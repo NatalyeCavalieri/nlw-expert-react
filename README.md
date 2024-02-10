@@ -21,7 +21,7 @@
 <span align="start">PÁGINA DE VISUALIZAÇÃO E DELETAR NOTA: Pode visualizar a nota e optar por deleta-la<span>
 <img align="center" src="./src/assets/delete.png">
 
-<a href=""> Teste a aplicação</a>
+<a href="https://nlw-expert-react-tau.vercel.app/"> => Teste a aplicação</a>
 
 <p>
 Projeto desenvolvido durante a Next Level Week (NLW) - Trilha React. Este projeto utiliza a API SpeechRecognition para converter o áudio do usuário em notas. Além disso, implementa o conceito de Lifting State Up para o gerenciamento de notas e a persistência dos dados utilizando o LocalStorage.
